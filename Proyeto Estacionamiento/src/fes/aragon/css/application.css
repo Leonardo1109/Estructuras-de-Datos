@@ -1,0 +1,13 @@
+BorderPane, TextFlow {
+	-fx-background-color: #e76f51;
+}
+
+Button {
+	-fx-background-radius: 8;
+	-fx-background-color: #023047;
+	-fx-text-fill: white;
+}
+
+Button:hover {
+	-fx-background-color: #219ebc;
+}

@@ -1,0 +1,12 @@
+Button {
+	-fx-background-color: #e5989b;
+	-fx-text-fill: #f5ebe0;
+}
+
+BorderPane {
+	-fx-background-color: #b5838d;
+}
+
+Label {
+	-fx-text-fill: #f5ebe0;
+}
